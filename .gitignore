@@ -55,3 +55,6 @@ Gemfile.lock
 .ruby-version
 
 coverage/
+
+
+.idea
